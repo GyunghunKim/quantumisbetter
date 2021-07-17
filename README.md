@@ -2,12 +2,13 @@
 
 ## Quantum Hackathon Korea 2021
 
-From 6/30-7/1, 2021.
+From 6/30 to 7/1, 2021.
 
 Team Leader: Sungbin Lee
 
 Team members: Gyunghun Kim, Kihyeon Kim, Dohwon Lee, Hosung Lee
 
+[LINK](http://qhackathon.kr/)
 
 ## Abstract
 
